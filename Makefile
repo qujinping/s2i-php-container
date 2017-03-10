@@ -1,5 +1,5 @@
 # Include common Makefile code.
-BASE_IMAGE_NAME = php
+BASE_IMAGE_NAME = builder-php
 VERSIONS = 5.6 7.0
 OPENSHIFT_NAMESPACES = 5.5
 

@@ -1,4 +1,4 @@
-FROM openshift/base-centos7
+FROM core/builder-base-centos7
 
 # This image provides an Apache+PHP environment for running PHP
 # applications.
